@@ -44,8 +44,8 @@ A beginner-friendly collection of Python examples demonstrating how to use the *
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/KritikKaushik/Ai_Engineering_Projects.git
+cd Ai_Engineering_Project
 ```
 
 ### 2. Create a virtual environment

@@ -4,6 +4,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from groq import Groq
 
+
 # Load environment variables from the .env file
 load_dotenv()
 
